@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PrPr Watch</string>
+    <string name="watch_name">_PrPr_</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">PrPr時計</string>
+</resources>
